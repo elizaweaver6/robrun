@@ -33,7 +33,7 @@
 [点击下载 ROB RUN v1.0.1](https://github.com/elizaweaver6/robrun/releases/download/v1.0.1/rubrun-1.0.1.exe)
 
 ### 2. 安全验证
-[查看 VirusTotal 病毒扫描报告](https://www.virustotal.com/gui/file/78863efa33347ebdce2c987208fc59790b42bbade6f8d17fedc3d90a24608a0f)
+[查看 VirusTotal 病毒扫描报告](https://www.virustotal.com/gui/file/21f94a287afb7fa1e5532c30c95a191387e69a004b9669f65f90140e3d808af5)
 
 ### 3. 安装步骤
 1. 双击下载好的安装包开始安装。
