@@ -1,4 +1,5 @@
 # ROB RUN 辅助 [游戏名称] 自瞄透视工具 | 稳定不封号 | 极速响应
+<img width="1920" height="911" alt="image" src="https://github.com/user-attachments/assets/7e0620e3-a8a5-429b-b632-db611d07a622" />
 
 **ROB RUN 辅助** 是一款专为ROB RUN量身打造的顶级外挂辅助工具。提供**自瞄、透视、锁头、穿墙**等核心功能，经过深度优化，实现**稳定运行、低延迟、不封机器码**。
 
